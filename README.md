@@ -12,6 +12,7 @@ Các chức năng bao gồm:
 Giao diện tự sáng tạo đi :)
  
 ### Bài 2: (SQL) 
+# [sql-novaon](https://github.com/ngnam/sql-novaon)
 Lưu toàn bộ các script tạo database, table, insert data, update data
 1.	Tạo các bảng và thêm dữ liệu 
 * a.	Bảng Product: Lưu dữ các sản phẩm của website bao gồm
